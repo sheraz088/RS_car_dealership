@@ -60,26 +60,15 @@ SCREENSHOTS:
 <img width="1092" height="614" alt="7" src="https://github.com/user-attachments/assets/3caf3b4f-52a1-447f-ba2f-b6bf88f7601d" />
 
 
-## Recommended .gitignore
 
-Create a `.gitignore` file and include at least:
+## Future Improvements
 
-```
-# OS files
-.DS_Store
-Thumbs.db
+- Admin Dashboard
+- Payment Gateway
+- Vehicle Search
+- Booking System
+- Email Verification
+- Firebase Authentication
 
-# PHP / runtime
-.env
-*.log
 
-# IDE
-.vscode/
-.idea/
-
-# Composer
-vendor/
-
-# Node
-node_modules/
-```
+THANK YOU
