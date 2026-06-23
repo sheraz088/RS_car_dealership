@@ -1,0 +1,116 @@
+/* copied from style/login.css */
+body
+{
+background:rgba(0, 0, 0, 0.7) url(../images/ba.jpg);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+}
+
+p
+{
+    font-family: arial;
+}
+.container img
+{
+    margin-top: 0px;
+    width: 30%;
+    margin-left:150px;
+    margin-top: 30px;
+}
+.desc
+{
+   font-family: Arial;
+    color: white; 
+    font-size: 23px;
+    text-align: center;
+    border-bottom: solid 1px white;
+        border-bottom: solid 1px white;
+}
+
+.form-wrap{ 
+    width: 450px;
+    background: rgba(0, 0, 0, 0.5);
+    box-sizing: border-box; 
+    position: fixed; 
+    left: 50%; top: 50%; 
+    transform: translate(-50%, -50%);
+    border-radius: 5px;
+    box-shadow: inset -2px 2px 2px white;
+}
+input
+{
+    margin-top: 45px;
+    margin-left: 35px;
+    background-color: black;
+    border: 1px solid #000000; 
+    border-radius: 3px;
+    padding: 6px 15px;
+    box-sizing: border-box;
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+input[type="submit"]
+{
+    font-family: arial;
+    margin-top: 55px;
+    background: yellow;;
+    border: none;
+    cursor: pointer; 
+    color: black;
+    border-radius: 7px;
+    transition: 0.6s;
+    margin-left: 220px;
+    transform: translate(-50%, -50%);
+    margin-bottom: 0px;
+}
+input[type="submit"]:hover
+{
+
+    background-color: black;
+    color:rgb(196, 195, 195);
+    padding: 10px 20px;
+
+}
+input[type="submit"]:action
+{
+    opacity: 0.7;
+}
+button
+{
+    font-family: arial;
+    margin-top: 30px;
+    background: yellow  ;
+    border: none;
+    cursor: pointer; 
+    color: black;
+    border-radius: 7px;
+    transition: 0.6s;
+    margin-left: 220px;
+    transform: translate(-50%, -50%);
+    margin-bottom: 0px;
+    font-size: 20px;
+    font-weight: bold;
+}
+button:hover
+{
+
+    background-color: black;
+    color:rgb(196, 195, 195);
+    padding: 10px 20px;
+
+}
+button:action
+{
+    opacity: 0.7;
+}
+.form-wrap h1
+{
+    margin-left: 30px;
+    font-size: 500px; 
+    justify-content: center;
+}
