@@ -1,4 +1,4 @@
-
+<img width="1340" height="621" alt="1" src="https://github.com/user-attachments/assets/c4bd689b-f1f0-4cce-ba77-dc66c470556f" />
 # RS Car Dealership
 
 A simple PHP-based car dealership web project for managing and displaying vehicle listings, registration, and salesperson views. This repo contains the front-end pages and PHP endpoints used in the course project.
