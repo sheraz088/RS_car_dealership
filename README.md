@@ -1,5 +1,7 @@
 <img width="1340" height="621" alt="1" src="https://github.com/user-attachments/assets/c4bd689b-f1f0-4cce-ba77-dc66c470556f" />
+
 # RS Car Dealership
+
 
 A simple PHP-based car dealership web project for managing and displaying vehicle listings, registration, and salesperson views. This repo contains the front-end pages and PHP endpoints used in the course project.
 
@@ -49,7 +51,7 @@ php -S localhost:8000
 Then open `http://localhost:8000`.
 
 SCREENSHOTS:
-<img width="1340" height="621" alt="1" src="https://github.com/user-attachments/assets/c4bd689b-f1f0-4cce-ba77-dc66c470556f" />
+
 <img width="1360" height="655" alt="2" src="https://github.com/user-attachments/assets/9ae7c91c-132e-486c-9236-8a843bc868fb" />
 <img width="1126" height="260" alt="3 3" src="https://github.com/user-attachments/assets/68099e71-dab5-40f4-b19d-08fe6108fc58" />
 <img width="1329" height="625" alt="3" src="https://github.com/user-attachments/assets/b42a5f02-24a8-4a8e-ac91-93bfcae31c1c" />
